@@ -1,0 +1,2 @@
+# glossary
+OSPO Glossary
