@@ -1,5 +1,5 @@
-baseURL = "https://glossary.cncf.io/"
-title = "Cloud Native Glossary"
+baseURL = "https://glossary.todogroup.org/"
+title = "OPSO Glossary"
 
 enableRobotsTXT = true
 
@@ -47,89 +47,24 @@ anchor = "smart"
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-140890431-2"
+# id = "UA-140890431-2"
 
 # Language configuration
 
 [languages]
 [languages.en]
-title = "Cloud Native Glossary"
-description = "The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications."
+title = "OSPO Glossary"
+description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 
-#[languages.no]
-#title = "CNCF Glossary"
-#description = "Docsy er operativsystem for skyen"
-#languageName ="Norsk"
-#contentDir = "content/no"
-#time_format_default = "02.01.2006"
-#time_format_blog = "02.01.2006"
-
-[languages.hi]
-title = "क्लाउड नेटिव शब्दावली"
-description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
-languageName ="हिन्दी (Hindi)"
-contentDir = "content/hi"
-weight = 2
-
-[languages.pt-br]
-title = "Glossário Cloud Native"
-description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
-languageName = "Português"
-contentDir =  "content/pt-br"
-weight = 3
-
-[languages.it]
-title = "Glossario Cloud Native"
-description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
-languageName = "Italiano"
-contentDir = "content/it"
-weight = 4
-
-[languages.ko]
-title = "클라우드 네이티브(Cloud Native) 용어집"
-description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션을 주제로 대화를 나눌 때 참조할 수 있는 공통의 용어 제공을 목표로 한다."
-languageName ="한국어 (Korean)"
-contentDir = "content/ko"
-weight = 5
-
-[languages.es]
-title = "Cloud Native Glosario"
-description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
-languageName ="Español (Spanish)"
-contentDir = "content/es"
-weight = 6
-
-[languages.zh-cn]
-title = "Cloud Native(云原生) Glossary"
-description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
-languageName ="简体中文 (Simplified Chinese)"
-contentDir = "content/zh-cn"
-weight = 7
-
-[languages.bn]
-title = "ক্লাউড নেটিভ শব্দকোষ"
-description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
-languageName = "বাংলা (Bengali)"
-contentDir = "content/bn"
-weight = 8
-
-[languages.de]
-title = "Cloud Native Glossar"
-description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
-languageName ="Deutsch"
-contentDir = "content/de"
-weight = 9
-
-[languages.ur]
-title = "کلاؤڈ کی مقامی لغت"
-description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
-languageName ="اردو (Urdu)"
-contentDir = "content/ur"
-weight = 10
-
+# [languages.hi]
+# title = "क्लाउड नेटिव शब्दावली"
+# description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
+# languageName ="हिन्दी (Hindi)"
+# contentDir = "content/hi"
+# weight = 2
 
 [markup]
   [markup.goldmark]
@@ -173,7 +108,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/cncf/glossary"
+github_repo = "https://github.com/todogroup/glossary"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 # github_project_repo = "https://github.com/google/docsy"
 
@@ -185,7 +120,7 @@ github_repo = "https://github.com/cncf/glossary"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "eda0239a7d3fd0d90"
+# gcs_engine_id = "eda0239a7d3fd0d90"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -216,8 +151,8 @@ footer_about_disable = true
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Thank you! Please <a href="https://github.com/cncf/glossary/issues/new">let us know if you have any suggestions</a>.'
-no = 'Thanks for your feedback. Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
+yes = 'Thank you! Please <a href="https://github.com/todogroup/glossary/issues/new">let us know if you have any suggestions</a>.'
+no = 'Thanks for your feedback. Please <a href="https://github.com/todogroup/glossary/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
