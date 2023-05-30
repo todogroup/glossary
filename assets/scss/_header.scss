@@ -24,17 +24,26 @@
 	}
 	// Logo area.
 	.navbar-brand {
+		margin-right: 0.8rem;
 		@media (min-width: 768px) {
 			padding-top: 0;
 			padding-bottom: 0rem;
 			margin-left: 2rem;
 		}
 		.navbar-logo {
-			display: block;
 			svg {
-				height: 40px;
+				height: 70px;
 			}
 		}
+		.navbar-glossary {
+			text-transform: uppercase;
+			font-size: 22px;
+			font-weight: 400;
+			letter-spacing: 0.09em;
+			border-left: 1px solid #DDDDDD;
+			padding-left: 1rem;
+			vertical-align: middle;
+		}	
 	}
 
 	// Main nav bar.
@@ -105,7 +114,7 @@
 						}
 					}
 					&.active span:after {
-						background-color: #99ebff;
+						background-color: #A1D33C;
 					}
 				}
 				// Topnav dropdown.
