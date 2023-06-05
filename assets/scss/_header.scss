@@ -32,7 +32,8 @@
 		}
 		.navbar-logo {
 			svg {
-				height: 70px;
+				height: 75px;
+				padding-bottom: 5px;
 			}
 		}
 		.navbar-glossary {
@@ -97,15 +98,15 @@
 							position: absolute;
 							left: 0;
 							right: 0;
-							bottom: -32px;
+							bottom: -29px;
 							@media (max-width: 991px) {
-								bottom: -35px;
+								bottom: -32px;
 							}
 							@media (max-width: 767px) {
-								bottom: -23px;
+								bottom: -20px;
 							}
 							@media (max-width: 500px) {
-								bottom: -12px;
+								bottom: -10px;
 							}
 							height: 4px;
 							display: block;
