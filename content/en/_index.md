@@ -9,7 +9,7 @@ Welcome to the glossary for the Open Source Program Offices (OSPOs) Book. As you
 
 We believe that it is important to be concise and clear in our definitions, and to reference existing descriptions and resources whenever possible. This will help us avoid creating a glossary that is overly complex or difficult to understand, and will ensure that our readers have access to the best information and resources available.
 
-<p><img class="mt-3" src="/images/homepage/group.jpg" alt="Group of people talking"></p>
+<p><img class="mt-3 mb-3" src="/images/homepage/group.jpg" alt="Group of people talking"></p>
 
 As you explore the terms and concepts in this glossary, we encourage you to use the descriptions and links provided. And if you have any suggestions for additional terms or resources that we should include, please don't hesitate to open an Issue or include new terms by opening a PR!
 
