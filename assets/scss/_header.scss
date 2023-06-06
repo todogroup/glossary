@@ -28,6 +28,7 @@
 		@media (min-width: 768px) {
 			padding-top: 0.5rem;
 			margin-left: 2rem;
+			padding-bottom: 0;
 		}
 		.navbar-logo {
 			svg {
@@ -95,9 +96,9 @@
 							position: absolute;
 							left: 0;
 							right: 0;
-							bottom: -29px;
+							bottom: -33px;
 							@media (max-width: 991px) {
-								bottom: -32px;
+								bottom: -36px;
 							}
 							@media (max-width: 767px) {
 								bottom: -20px;
