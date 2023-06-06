@@ -26,24 +26,21 @@
 	.navbar-brand {
 		margin-right: 0.8rem;
 		@media (min-width: 768px) {
-			padding-top: 0;
-			padding-bottom: 0rem;
+			padding-top: 0.5rem;
 			margin-left: 2rem;
 		}
 		.navbar-logo {
 			svg {
-				height: 75px;
-				padding-bottom: 5px;
+				height: 80px;
+				padding-bottom: 17px;
+				margin-right: 0;
 			}
 		}
 		.navbar-glossary {
-			text-transform: uppercase;
-			font-size: 22px;
-			font-weight: 400;
-			letter-spacing: 0.09em;
-			border-left: 1px solid #DDDDDD;
-			padding-left: 1rem;
+			font-size: 37px;
+			font-weight: 700;
 			vertical-align: middle;
+			color: #002E6D;
 		}	
 	}
 
