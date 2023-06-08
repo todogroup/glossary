@@ -44,6 +44,7 @@ through funding and/or contributions. By doing so, OSPOs can help ensure that op
 The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. 
 The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives and works with all lines of organization units/groups
 
+[Learn more about ospodefinition.org](https://github.com/todogroup/ospodefinition.org)
 
 > Disclaimer: OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, 
 as well as small, medium, and large companies. It's also important that there are many different names for an OSPO-like structure within an organization. The naming and concrete organizational form will 
