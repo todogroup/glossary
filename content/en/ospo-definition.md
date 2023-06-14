@@ -44,10 +44,17 @@ through funding and/or contributions. By doing so, OSPOs can help ensure that op
 The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. 
 The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives and works with all lines of organization units/groups
 
-[Learn more about ospodefinition.org](https://github.com/todogroup/ospodefinition.org)
 
 > Disclaimer: OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, 
 as well as small, medium, and large companies. It's also important that there are many different names for an OSPO-like structure within an organization. The naming and concrete organizational form will 
 strongly depend on the the practices of each organization. Organizing it as a "Program" or an "Office" is only one way to implement a structure which serves the purpose of an OSPO.
+
+## 💻 Source - Original Repo
+
+* People can find the original repo where the OSPO definition is hosted at [todogroup/ospodefinition.org](https://github.com/todogroup/ospodefinition.org) under `CC-BY-SA 4.0` License. This content mirrors [the second release (v.2.0)](https://github.com/todogroup/ospodefinition.org/releases/tag/v1.2.0) of the definition. 
+
+* If you would like to contirbute to improve the OSPO definition and help us define v.2.1 release, please submitt [open an issue](https://github.com/todogroup/ospodefinition.org/issues) or open a [PR](https://github.com/todogroup/ospodefinition.org/pulls).
+
+* [Learn more about ospodefinition.org](https://github.com/todogroup/ospodefinition.org)
 
 
