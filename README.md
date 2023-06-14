@@ -1,6 +1,6 @@
 # OSPO Glossary
 
-The [OSPO](https://todogroup.org/) Glossary Project is hosted at [https://glossary.todogroup.org/](https://glossary.todogroup.org/) and is intended to be used as a reference for common terms when talking about Open Source Program Offices (OSPOs).
+The [OSPO](https://todogroup.org/) Glossary Project is hosted at [https://ospoglossary.todogroup.org/](https://ospoglossary.todogroup.org/) and is intended to be used as a reference for common terms when talking about Open Source Program Offices (OSPOs).
 
 
 ## Setting up a local instance
