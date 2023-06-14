@@ -9,8 +9,7 @@ menu:
 
 This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. 
-Additionally, it follows the following rules:
+The OSPO Glossary follows the following rules:
 
 1. Use simple, accessible language, avoiding technical jargon and buzzwords
 2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
@@ -30,7 +29,7 @@ Please ensure definitions are explained in simple terms and don’t assume techn
 
 ## Minimal Viable Definition 
 
-Our goal is to make it really easy for anyone to understand cloud native terms. 
+Our goal is to make it really easy for anyone to understand OSPO terms. 
 As such, we focus on simplicity. 
 That means using clear and simple language with examples anyone who uses technology can relate to (more to that below) but also providing a *minimal viable definition*, at least from a technical point of view. 
 We don't want to save on context and examples — after all, those things help the reader understand the concept — but if a technical detail is not needed to understand it, we'll skip it. 
@@ -118,23 +117,10 @@ tags: ["tag 1"], ["tag 2"]
 
 ### Definition
 
-#### Three subheadings
-
-The definitions for **technology** and **concept** categories contain three subheadings: 
-
-- **What it is**: provide a short and clear overview of what we are talking about.
-- **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). 
-  In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
-- **How it helps**: now, come back to the term. How does it address the problem described above?
-
-Note that **properties** don't require separate sections. A definition will suffice. 
-
-To facilitate review, please use **semantic line breaks** (one sentence per line).
-
 #### Quality is paramount
 
-If merged, your submission will be the official CNCF definition for that term (until someone else improves it). 
-Creating a term that meets the CNCF's high standards can't be rushed — quality takes time and effort.
+If merged, your submission will be the official OSPO definition for that term (until someone else improves it). 
+Creating a term that meets the OSPO's high standards can't be rushed — quality takes time and effort.
 
 **Do your research**: Even if you are confident you know the term, verify you got it right. 
 We often use terms in organizations a certain way that may not reflect the full picture. 
@@ -165,9 +151,9 @@ Additionally, it uses a real-world example comparing network challenges in a mic
 to wifi problems (something anyone using a laptop can understand). 
 Where possible, try to make that connection. 
 
-#### Start with a Google or Word doc
+#### Start with your favourite word processor
 
-We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting again. 
+We recommend starting with a Google, LibreOffice, Word doc, etc letting it sit for a few days, and revisiting again. 
 This will allow you to catch phrases or expressions that could be worded in a simpler and more accessible way. 
 Also, make sure to run a spellcheck before submitting a PR.
 
