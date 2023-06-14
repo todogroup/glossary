@@ -7,7 +7,7 @@ menu:
     weight: 10
 ---
 
-Hi there! 👋 Thanks for your interest in contributing to the CNCF Cloud Native Glossary project. 
+Hi there! 👋 Thanks for your interest in contributing to the TODO Glossary project. 
 Whether you contribute new terms, help localize the Glossary into your native language, 
 or want to help others get started, there are many ways to become an active member of this community. 
 This doc outlines the different contributor roles within the project and the responsibilities and privileges that come with them.
@@ -15,7 +15,7 @@ This doc outlines the different contributor roles within the project and the res
 ## 1. Contributors
 
 The Glossary is for everyone. Anyone can become a Glossary contributor simply by contributing to the project. 
-All contributors are expected to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+All contributors are expected to follow the [TODO Code of Conduct](https://todogroup.org/code-of-conduct/).
 
 There are a variety of ways you can contribute to the project, including:
 
@@ -93,21 +93,6 @@ To become a maintainer, start by expressing interest to existing maintainers.
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
 After some time of working together, maintainers will decide whether to grant maintainer status. 
 This decision will be based on demonstrated level of proficiency and responsiveness.
-
-## 4. Community Managers
-
-Community managers help foster a welcoming and engaging community. Any community member can become a community manager. They are expected to:
-
-- Welcome new members and ensure they get the information they need,
-- Help answer questions from the community or identify someone who can help,
-- Moderate conversations on Slack.
-
-### Become a Community Manager
-
-Anyone can become a Glossary community manager. 
-Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. 
-To become a community manager, start by expressing interest to existing maintainers. 
-After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
 
 ## Involuntary Removal
 
