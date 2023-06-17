@@ -5,7 +5,7 @@ tags: ["fundamental", "", ""]
 ---
 
 ## Background
-Open source is intertwined in the development of modern technologies and serves as the foundation of the vast majority of codebases across all industry sectors and technology areas, 
+Open source is [intertwined in the development of modern technologies](https://openforumeurope.org/open-source-impact-study/) and serves as the foundation of the vast majority of codebases across all industry sectors and technology areas, 
 such as Artificial Inteligence and Machine Learning or Cybersecurity.
 
 ## What is an OSPO?
@@ -13,7 +13,7 @@ such as Artificial Inteligence and Machine Learning or Cybersecurity.
 An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure. It is responsible for defining and implementing strategies and policies to guide these efforts. 
 This can include setting policies around code use, distribution, selection, auditing, contributing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source 
 activities; supporting an organization's efficiency in developing software through encouraging sustainable usage of existing open source components and, where appropriate, contributing enhancements back to these project; 
-when needed, guiding teams with open sourcing their software; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement. InnerSource is a close sibling of open source 
+when needed, guiding teams with open sourcing their software; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement. [InnerSource](https://innersourcecommons.org/) is a close sibling of open source 
 and often collaborates with or is part of the OSPO.
 
 ## Why is an OSPO needed?
@@ -38,6 +38,8 @@ realize the benefits of open source as well as engaging people to contribute to 
 * Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, 
 and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support 
 through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
+
+* Open Source Gatekeeper: OSPOs can help to enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
 
 ## How does an OSPO usually operate?
 
