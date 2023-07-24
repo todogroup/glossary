@@ -1,7 +1,7 @@
 ---
 title: Software Supply Chain
 status: Completed
-tags: ["fundamental", "", ""]
+tags: ["fundamental", "security", "compliance"]
 ---
 
 Software Supply Chain is composed of the components, libraries, tools, and processes used to develop, build, and publish a software artifact.
