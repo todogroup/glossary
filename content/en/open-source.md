@@ -8,4 +8,4 @@ Open source refers to a type of software that allows users to freely use, modify
 
 ## 💻 Source
 
-* [Open Source Initative](https://opensource.org/osd/).
+* [Open Source Initiative](https://opensource.org/osd/)
