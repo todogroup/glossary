@@ -1,7 +1,7 @@
 ---
 title: Software Package Data Exchange
 status: Completed
-tags: ["fundamental", "", ""]
+tags: ["standard", "security", "compliance"]
 ---
 
 Software Package Data Exchange (SPDX9 is an open standard for software bill of materials (SBOM). 
