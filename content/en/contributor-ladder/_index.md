@@ -65,7 +65,6 @@ Any localization approver can also become an approver for the English Glossary i
 ### Becoming an Approver
 
 Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. 
-If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
 
 To become an approver, start by expressing interest to existing maintainers. 
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
