@@ -59,12 +59,14 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
-# [languages.hi]
-# title = "क्लाउड नेटिव शब्दावली"
-# description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
-# languageName ="हिन्दी (Hindi)"
-# contentDir = "content/hi"
-# weight = 2
+[languages.zh_Hans]
+title = "OSPO 术语表"
+description = "OSPO 术语表项目旨在为谈论开源和开源项目办公室 (OSPO) 时使用的常用术语提供参考。"
+languageName ="简体中文（Simplified Chinese）"
+contentDir = "content/zh_Hans"
+weight = 2
+
+# Add other languages here 
 
 [markup]
   [markup.goldmark]
