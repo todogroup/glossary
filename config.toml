@@ -54,17 +54,20 @@ anchor = "smart"
 [languages]
 [languages.en]
 title = "OSPO Glossary"
-description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+[languages.en.params]
+description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 
-[languages.zh_Hans]
+
+[languages.zh]
 title = "OSPO 术语表"
-description = "OSPO 术语表项目旨在为谈论开源和开源项目办公室 (OSPO) 时使用的常用术语提供参考。"
-languageName ="简体中文（Simplified Chinese）"
-contentDir = "content/zh_Hans"
+languageName ="中文（Chinese）"
+contentDir = "content/zh"
 weight = 2
+[languages.zh.params]
+description = "OSPO 术语表项目旨在为谈论开源和开源项目办公室 (OSPO) 时使用的常用术语提供参考。"
 
 # Add other languages here 
 
