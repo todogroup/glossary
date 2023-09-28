@@ -91,7 +91,7 @@ status: Feedback Appreciated
 
 The **tag** label follows the status label. 
 For the tags to be meaningful and thus helpful to the user, we will use them in a strict sense. 
-Applying too many tags will only delute its meaning. 
+Applying too many tags will only dilute its meaning. 
 With the exception of "fundamental," which simply indicates this term is needed to understand other cloud native concepts, most terms will likely only have one tag.
 
 **Note**: Please do not introduce new tags unless approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
