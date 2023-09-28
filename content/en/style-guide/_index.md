@@ -16,7 +16,7 @@ The OSPO Glossary follows the following rules:
 3. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
 5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
+6. [Phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
 7. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
 8. Do not exaggerate
 9. Avoid repetition
