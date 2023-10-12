@@ -16,7 +16,7 @@ The OSPO Glossary follows the following rules:
 3. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
 5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
+6. [Phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
 7. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
 8. Do not exaggerate
 9. Avoid repetition
@@ -91,7 +91,7 @@ status: Feedback Appreciated
 
 The **tag** label follows the status label. 
 For the tags to be meaningful and thus helpful to the user, we will use them in a strict sense. 
-Applying too many tags will only delute its meaning. 
+Applying too many tags will only dilute its meaning. 
 With the exception of "fundamental," which simply indicates this term is needed to understand other cloud native concepts, most terms will likely only have one tag.
 
 **Note**: Please do not introduce new tags unless approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
