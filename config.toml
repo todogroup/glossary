@@ -52,7 +52,7 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.en]
+[languages.en.params]
 title = "OSPO Glossary"
 description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 languageName ="English"
@@ -120,7 +120,7 @@ github_repo = "https://github.com/todogroup/glossary"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "065abfba197ec41bd"
+# gcs_engine_id = "065abfba197ec41bd"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
