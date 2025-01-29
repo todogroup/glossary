@@ -22,7 +22,7 @@ There are a number of ways you can contribute to this project, which we'll cover
 
 The goal of this glossary is to simplify the Open Source Program Office space and thus make it more accessible to people. 
 
-The OSPO Glossary content is stored in [this GitHub repo](https://github.com/todogorup/glossary) 
+The OSPO Glossary content is stored in [this GitHub repo](https://github.com/todogroup/glossary) 
 where you'll find a list of [issues](https://github.com/todogroup/glossary/issues) and pull requests ([PRs](https://github.com/todogroup/glossary/pulls)).
 ## Who can contribute?
 
@@ -32,7 +32,7 @@ Therefore, to contribute new terms, you must be proficient in them.
 
 That know-how is required because explaining complex concepts in simple words is _really_ hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity results from hard work and collaboration between cloud native experts. 
 
-If you have never directly engaging with Open Source Program Offices or open source initiatives wihtin organizations yet, but still want to contribute, we recommend teaming up with someone who is. 
+If you have never directly engaging with Open Source Program Offices or open source initiatives within organizations yet, but still want to contribute, we recommend teaming up with someone who is. 
 Once the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
 
 The localization effort is where beginners proficient in another language can make valuable contributions to the Glossary. 
@@ -63,7 +63,7 @@ You can use labels (e.g., English language, help needed, good first issue) to fi
 
 **Note**: you can start working on an issue after the maintainers assigned it to you. 
 You can only claim one term at a time. 
-Workig on multiple terms is sequential, you must complete a term before claiming the next one.
+Working on multiple terms is sequential, you must complete a term before claiming the next one.
 
 ## Propose new terms {#propose-new-terms}
 
