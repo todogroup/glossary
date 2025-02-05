@@ -15,3 +15,11 @@ npm install
 ```
 
 Then run the site using `npm run serve`. To have the site run locally with a functioning local search, run `npm run serve:with-pagefind`.
+
+### To run in docker
+
+As memtioned above, fork and clone this repository, run `git submodule`, then run following:
+
+```bash
+./run-hugo-in-docker.sh
+```
