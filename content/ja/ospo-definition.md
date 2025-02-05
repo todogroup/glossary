@@ -1,5 +1,5 @@
 ---
-title: Open Source Program Office (JP)
+title: オープンソースプログラムオフィス
 status: Completed
 tags: ["fundamental", "", ""]
 ---
