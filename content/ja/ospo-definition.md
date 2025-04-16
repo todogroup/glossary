@@ -1,62 +1,41 @@
 ---
-title: Open Source Program Office
+title: オープンソースプログラムオフィス
 status: Completed
 tags: ["fundamental", "", ""]
 ---
 
-## Background
-Open source is [intertwined in the development of modern technologies](https://openforumeurope.org/open-source-impact-study/) and serves as the foundation of the vast majority of codebases across all industry sectors and technology areas, 
-such as Artificial Inteligence and Machine Learning or Cybersecurity.
 
-## What is an OSPO?
-
-An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure. It is responsible for defining and implementing strategies and policies to guide these efforts. 
-This can include setting policies around code use, distribution, selection, auditing, contributing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source 
-activities; supporting an organization's efficiency in developing software through encouraging sustainable usage of existing open source components and, where appropriate, contributing enhancements back to these project; 
-when needed, guiding teams with open sourcing their software; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement. [InnerSource](https://innersourcecommons.org/) is a close sibling of open source 
-and often collaborates with or is part of the OSPO.
-
-## Why is an OSPO needed?
-
-To the outside, an OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the 
-benefits of open source adoption while minimizing risks. To the inside, an OSPO serves as a central interface for open source related activities across the organization and to bring together the required 
-expertise from different perspectives, such as a legal, economical, technical, or community perspective.
-
-## Who is behind an OSPO
-
-OSPOs are composed of people (open source specialists) wearing different hats:
-
-* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. 
-This can involve educating teams/units, establishing new processes and workflows, and adopting new tools and technologies.
-
-* Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing trends, and how to engage with open source projects, foundations, 
-and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
-
-* Open Source Advocate: OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations 
-realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
-
-* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, 
-and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support 
-through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
-
-* Open Source Gatekeeper: OSPOs can help to enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
-
-## How does an OSPO usually operate?
-
-The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. 
-The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives and works with all lines of organization units/groups
+オープンソースは[現代のテクノロジーの発展と密接に結びついており](https://openforumeurope.org/open-source-impact-study/)、人工知能や機械学習、サイバーセキュリティなど、あらゆる産業セクターや技術分野のコードベースの大部分を支える基盤として機能しています。ほとんどすべての組織は、オープンソースコミュニティによって作成された技術に依存しています。
 
 
-> Disclaimer: OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, 
-as well as small, medium, and large companies. It's also important that there are many different names for an OSPO-like structure within an organization. The naming and concrete organizational form will 
-strongly depend on the the practices of each organization. Organizing it as a "Program" or an "Office" is only one way to implement a structure which serves the purpose of an OSPO.
+## OSPOとは何ですか
 
-## 💻 Source - Original Repo
+オープンソースプログラムオフィス（OSPO）は、組織のオープンソースに関する運用と体制の中核的な専門機関として機能します。OSPOはこれらの取り組みを導くための戦略とポリシーを定義し、実施する責任を持ちます。これには、コードの使用、配布、選定、監査、貢献、その他の重要な領域に関するポリシーを設定すること、オープンソース活動に関与する人々（組織内外の人々）に教育とトレーニングを提供すること、既存のオープンソースコンポーネントの持続可能な使用を推進することや適切な場合にこれらのプロジェクトの改良に貢献することによって組織のソフトウェア開発効率を支援すること、必要に応じてソフトウェアのオープンソース化をチームに指導すること、エンジニアリングの効果を確保すること、法的コンプライアンスを確保すること、およびコミュニティとの関わりの促進と構築を含むことがあります。
+[インナーソース](https://innersourcecommons.org/) は、オープンソースの近い仲間であり、しばしば OSPO と協力したり、OSPO の一部となったりします。
 
-* People can find the original repo where the OSPO definition is hosted at [todogroup/ospodefinition.org](https://github.com/todogroup/ospodefinition.org) under `CC-BY-SA 4.0` License. This content mirrors [the second release (v.2.0)](https://github.com/todogroup/ospodefinition.org/releases/tag/v1.2.0) of the definition. 
+## なぜOSPOが必要なのですか
 
-* If you would like to contirbute to improve the OSPO definition and help us define v.2.1 release, please submitt [open an issue](https://github.com/todogroup/ospodefinition.org/issues) or open a [PR](https://github.com/todogroup/ospodefinition.org/pulls).
+外部に対しては、OSPO は組織とオープンソースコミュニティの重要な架け橋となって、組織がオープンソースソフトウェアの良き世話役となることや、オープンソースの採用によるリスクの最小化しながら利益を最大限に享受することを確実にする手助けをします。内部的には、OSPO は組織全体のオープンソース関連活動の中心的なインターフェースとして機能し、法的、経済的、技術的、あるいはコミュニティの観点から必要な専門知識を収集します。
 
-* [Learn more about ospodefinition.org](https://github.com/todogroup/ospodefinition.org)
+## OSPOには誰がいますか
 
+OSPO は様々な役割を担う人々（オープンソースの専門家）で構成されています：
+
+* オープンソースイネーブラー：OSPO は、組織がオープンソースコミュニティと効果的に関わるために必要な文化、プロセス、ツール変更の舵取りをするのに役立ちます。これには、チーム/ユニットの教育、新しいプロセスとワークフローの確立、新しいツールとテクノロジーの導入を含むことがあります。
+
+* オープンソースカウンセラー：OSPO は、最新のオープンソースの動向、ライセンスの動向、およびオープンソースプロジェクト、財団、コミュニティとの関わり方に関するガイダンスとアドバイスを提供できます。これにより、組織が急速に変化するオープンソースの状況を常に最新の状態に保ち、十分な情報に基づいた意思決定を行う手助けをします。
+
+* オープンソースアドボケート：OSPO は、様々な組織単位にわたってオープンソースやベストプラクティスの使用と貢献を促進できます。これは、組織がオープンソースの利点を認識し、人々がオープンソースプロジェクトに貢献したり、新しいプロジェクトを開始したりするのに役立ちます。
+
+* オープンソース環境保護者：OSPO は、セキュリティ、メンテナンス、プロジェクトの健全性などの問題に対処することで、組織がオープンソースプロジェクトを長期的に支持および維持できるよう支援します。これには、コードレビュー、セキュリティ脆弱性管理、資金提供や貢献による継続的なメンテナンスとサポートのためのポリシーと手順の確立が含まれる場合があります。そうすることで、OSPO は、オープンソースプロジェクトが健全な状態を維持し、より広範なコミュニティに利益をもたらし続ける手助けをします。
+
+## OSPOはどのように運営されていますか
+
+OSPO の背後にいる人々がこれを達成する方法は、戦略、ガバナンス、コンプライアンス、コミュニティへの関与などの側面をカバーするフレームワークを作成および維持することです。OSPO の戦略は、組織のオープンソース目標を組織全体の目標と整合させることに焦点を当てており、あらゆる組織単位/グループの部門と連携します。
+
+> OSPO は、学術機関、NGO、財団、政府、行政、中小企業、大企業など、さまざまなセクター、地域、組織規模の民間および公的機関で設立できます。組織内の OSPO のような構造には様々な名称が存在することも重要です。名称と具体的な組織形態は、各組織の慣行に大きく依存します。「プログラム」または「オフィス」として組織することは、OSPO の目的を果たす構造を実装する１つの方法にすぎません。
+
+## 💻 Source
+
+* People can find the original repo where the OSPO definition (JP) is hosted at [todogroup/ospodefinition.org](https://github.com/todogroup/ospodefinition.org/blob/main/README-ja.md) under `CC-BY-SA 4.0` License. This content mirrors [the second release (v.2.0)](https://github.com/todogroup/ospodefinition.org/releases/tag/v1.2.0) of the definition. 
 
