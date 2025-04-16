@@ -52,19 +52,22 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.en.params]
-title = "OSPO Glossary"
-description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
+[languages.en]
 languageName ="English"
+title = "OSPO Glossary"
 # Weight used for sorting.
 weight = 1
+[languages.en.params]
+description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 
-# [languages.hi]
-# title = "क्लाउड नेटिव शब्दावली"
-# description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
-# languageName ="हिन्दी (Hindi)"
-# contentDir = "content/hi"
-# weight = 2
+[languages.ja]
+contentDir = "content/ja"
+languageName ="日本語 (Japanese)"
+title = "OSPO 用語集"
+# Weight used for sorting.
+weight = 2
+[languages.ja.params]
+description = "OSPO 用語集プロジェクトは、オープンソースおよびオープンソースプログラムオフィス (OSPO) について話すときに使用される一般的な用語のリファレンスとして使用することを目的としています。"
 
 [markup]
   [markup.goldmark]
