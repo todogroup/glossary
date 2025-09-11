@@ -1,0 +1,85 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "上一页"
+
+[ui_pager_next]
+other = "下一页"
+
+[ui_read_more]
+other = "阅读更多"
+
+[ui_search]
+other = "搜索此站点…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "在"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "查看所有标签"
+[ui_tag]
+other = "标签"
+[ui_tags]
+other = "标签"
+[ui_search_by_tags]
+other = "按标签浏览"
+[ui_tags_intro]
+other = "我们已对术语进行了分类。使用筛选器按标签浏览术语。"
+[ui_or_search_by_tags]
+other = "...或按标签浏览"
+[ui_select_all]
+other = "全选"
+[ui_deselect_all]
+other = "取消全选"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "版权所有"
+
+[footer_privacy_policy]
+other = "隐私政策"
+
+[footer_hub_button_text]
+other = "所有 CNCF 网站"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "作者"
+[post_created]
+other = "创建于"
+[post_last_mod]
+other = "最后修改于"
+[post_edit_this]
+other = "编辑此页面"
+[post_create_child_page]
+other = "创建子页面"
+[post_create_issue]
+other = "报告问题"
+[post_create_project_issue]
+other = "创建项目问题"
+[post_posts_in]
+other = "发布在"
+[post_reading_time]
+other = "分钟阅读"
+
+# Print support
+[print_printable_section]
+other = "这是此部分的多页打印视图。"
+[print_click_to_print]
+other = "点击这里打印"
+[print_show_regular]
+other = "返回此页面的常规视图"
+[print_entire_section]
+other = "打印整个部分"
+
+# Feedback section
+[feedback_title]
+other = "反馈"
+[feedback_question]
+other = "此页面有帮助吗？"
+[feedback_answer_yes]
+other = "是"
+[feedback_answer_no]
+other = "否"
