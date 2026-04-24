@@ -10,7 +10,7 @@ menu:
 ## Welcome 
 
 Welcome to the OSPO Glossary contributing guide, and thank you for your interest. 
-There are a number of ways you can contribute to this project, which we'll cover in detail here: 
+There are several ways you can contribute to this project, which we'll cover in detail here: 
 
 1) [Best Practices](#best-practices)
 2) [Style guide](#style-guide)
@@ -32,7 +32,7 @@ Therefore, to contribute new terms, you must be proficient in them.
 
 That know-how is required because explaining complex concepts in simple words is _really_ hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity results from hard work and collaboration between cloud native experts. 
 
-If you have never directly engaging with Open Source Program Offices or open source initiatives within organizations yet, but still want to contribute, we recommend teaming up with someone who is. 
+If you have never directly engaged with Open Source Program Offices or open source initiatives within organizations yet, but still want to contribute, we recommend teaming up with someone who is. 
 Once the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
 
 The localization effort is where beginners proficient in another language can make valuable contributions to the Glossary. 
@@ -50,7 +50,7 @@ Before beginning your Glossary contributor journey, be sure to complete the foll
 To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
 We recommend checking out this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
 to correctly format Markdown text in GitHub (e.g., hyperlink, bold, italic).
-And when naming .md files, please use lowercase letters and hyphens instead of spaces to separate words and avoid parenthesis.
+And when naming .md files, please use lowercase letters and hyphens instead of spaces to separate words and avoid parentheses.
 
 ## Style guide {#style-guide}
 
@@ -61,7 +61,7 @@ Read our [Style Guide](/style-guide/) to understand our guidelines for formattin
 Go to the [Glossary GitHub repo issues](https://github.com/todogroup/glossary/issues) to find a list of available issues. 
 You can use labels (e.g., English language, help needed, good first issue) to filter out issues.
 
-**Note**: you can start working on an issue after the maintainers assigned it to you. 
+**Note**: You can start working on an issue after the maintainers assign it to you. 
 You can only claim one term at a time. 
 Working on multiple terms is sequential, you must complete a term before claiming the next one.
 
